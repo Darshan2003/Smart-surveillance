@@ -1,0 +1,8 @@
+names:
+- fire
+- other
+- smoke
+nc: 3
+test: /kaggle/input/firesmokedetection/test/images
+train: /kaggle/input/firesmokedetection/train/images
+val: /kaggle/input/firesmokedetection/valid/images
