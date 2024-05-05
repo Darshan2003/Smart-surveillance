@@ -1,0 +1,27 @@
+We are building a survelliance system which is for Law Enforcement
+
+
+-It helps them deploy their officers effciently
+-It provides them to monitor problems faced in their local area
+-We have public CCTVs of the local area, it should detect any particular 
+anamaly in that public area
+-We also have inpremise CCTV which has few extra features related to providing
+security on Police station
+-Users can report any incident directly to police through app and it should be
+visible in the dashboard
+
+
+
+How do we pass the video feed to model and display it?
+
+
+
+What models do we have?
+1. Fire Detection *
+2. CCTV Tampering *
+3. Accident Detection * 
+4. Weapon Detection
+5. Wall Climbing
+6. Crowd Counting
+7. Fighting
+
